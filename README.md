@@ -17,6 +17,7 @@ leetcode-solutions
 | [0027-remove-element](https://github.com/exonflux/leetcode-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/exonflux/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/exonflux/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/exonflux/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/exonflux/leetcode-solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -25,6 +26,7 @@ leetcode-solutions
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/exonflux/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/exonflux/leetcode-solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
