@@ -24,11 +24,13 @@ leetcode-solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/exonflux/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/exonflux/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/exonflux/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/exonflux/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/exonflux/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/exonflux/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/exonflux/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/exonflux/leetcode-solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -39,6 +41,7 @@ leetcode-solutions
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/exonflux/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/exonflux/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -52,11 +55,11 @@ leetcode-solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/exonflux/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/exonflux/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/exonflux/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
